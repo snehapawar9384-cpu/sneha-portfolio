@@ -258,3 +258,12 @@ footer {
         width: 100%;
     }
 }
+.social-links {
+    margin-top: 15px;
+}
+
+.social-links a {
+    margin-right: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
